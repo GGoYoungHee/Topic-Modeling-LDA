@@ -17,3 +17,10 @@ The data topic modeling(LDA) the following figure is explaining the model.
 
 
 - The paper is [here](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
+
+
+## BE PROUD!!
+
+![image](https://user-images.githubusercontent.com/77769026/198184901-eb42e501-fb57-411e-bb30-45019a3eed90.png)
+
+- Hahaha!!!
