@@ -1,4 +1,6 @@
 # Topic-Modeling-LDA
+- 진행기간: 2022.10
+
 Review Analysis with Latent Dirichlet Allocation (Topic Modeling)
 
 능동적으로 외주를 받아보았다. 가격 협상 기술 없이 꽤 싼 값에 분석을 해줬지만, 지금와서 보면 이러한 경험도 나름 괜찮은것 같다. 재밌었다. 
